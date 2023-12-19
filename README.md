@@ -1,5 +1,6 @@
 Part Time Jobs (Подработка).
 Приложение Part Time Jobs (Подработка), разработчики Ungarbaev описывает подробно как удалить свой аккаунт.
 Чтобы удалить полнустью удалить аккаунт и все данные связынные с ним данные имя, адрес, фото, геоданные, номер телефона,и т.д.
-![photo_1_2023-12-19_11-02-48](https://github.com/jalgas93/partTimeJobsDeletingAnAccount/assets/44088434/2042ce9f-20c3-443a-bd5d-30e26e89eee1 =250x250)
+![photo_1_2023-12-19_11-02-48](https://github.com/jalgas93/partTimeJobsDeletingAnAccount/assets/44088434/2042ce9f-20c3-443a-bd5d-30e26e89eee1)
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/jalgas93/partTimeJobsDeletingAnAccount/assets/44088434/2042ce9f-20c3-443a-bd5d-30e26e89eee1)https://github.com/jalgas93/partTimeJobsDeletingAnAccount/assets/44088434/2042ce9f-20c3-443a-bd5d-30e26e89eee1" width="200" height="400" />
 
